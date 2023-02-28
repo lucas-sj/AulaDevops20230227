@@ -1,2 +1,4 @@
 # AulaDevops20230227
-Teste lucas
+Hoje foi a aula para criar a conta.
+Criar o Token.
+Clonar e enviar o repositorio.
